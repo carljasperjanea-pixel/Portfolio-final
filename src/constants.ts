@@ -87,14 +87,14 @@ export const PROJECTS_DATA: Project[] = [
     description: "A collection of video editing projects showcasing skills in Capcut and other editing software. Includes transitions, color grading, and sound design.",
     tools: ["Capcut", "Adobe Firefly"],
     image: "/Vid edit.png",
-    link: "https://drive.google.com/drive/folders/1OXc-YMFQFdxttAB1PVcyQk8I0DrlWrZF?usp=sharing"
+    link: "https://drive.google.com/drive/u/0/folders/1Yi5M8FG2Mldbn-csLCFYxVbjFjJOwehV"
   },
   {
     title: "Graphic Design Assets",
     description: "Creative assets designed for social media and marketing purposes using Canva and Adobe tools.",
     tools: ["Canva", "Adobe Firefly"],
     image: "graph des.png",
-    link: "https://drive.google.com/drive/folders/1OXc-YMFQFdxttAB1PVcyQk8I0DrlWrZF?usp=sharing"
+    link: "https://drive.google.com/drive/u/0/folders/1gAqMitOGdqC_FGXgC3yf-0zJrdvZHnUo"
   },
 
   {
